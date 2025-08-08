@@ -1,0 +1,24 @@
+{
+  "Profiles": {
+    "Default": 50,
+    "Low Comfort": 40,
+    "Medium": 60,
+    "High": 80,
+    "Jobright.ai": 62,
+    "Excel": 50
+  },
+  "Rules": [
+    {
+      "AppPattern": "Code.exe",
+      "TitlePattern": "*",
+      "Profile": "High"
+    },
+    {
+      "AppPattern": "EXCEL.EXE",
+      "TitlePattern": "*",
+      "Profile": "Low Comfort"
+    }
+  ],
+  "DefaultBrightness": 50,
+  "DelayMs": 300
+}

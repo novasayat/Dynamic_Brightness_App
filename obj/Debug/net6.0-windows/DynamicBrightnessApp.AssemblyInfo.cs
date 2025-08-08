@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DynamicBrightnessApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb9523689f0b3fe3fa523416b96f52127fdef0a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("DynamicBrightnessApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DynamicBrightnessApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

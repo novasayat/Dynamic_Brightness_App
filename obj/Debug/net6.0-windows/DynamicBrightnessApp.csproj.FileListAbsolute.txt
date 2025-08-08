@@ -17,3 +17,5 @@ C:\Users\rajat\Dynamic_Brightness\obj\Debug\net6.0-windows\refint\DynamicBrightn
 C:\Users\rajat\Dynamic_Brightness\obj\Debug\net6.0-windows\DynamicBrightnessApp.pdb
 C:\Users\rajat\Dynamic_Brightness\obj\Debug\net6.0-windows\DynamicBrightnessApp.genruntimeconfig.cache
 C:\Users\rajat\Dynamic_Brightness\obj\Debug\net6.0-windows\ref\DynamicBrightnessApp.dll
+C:\Users\rajat\Dynamic_Brightness\obj\Debug\net6.0-windows\DynamicBrightnessApp.sourcelink.json
+C:\Users\rajat\Dynamic_Brightness\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
